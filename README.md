@@ -1,0 +1,1 @@
+Workshop .NET Core ministrado pela Glaucia Lemos.
